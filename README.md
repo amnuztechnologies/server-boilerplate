@@ -21,7 +21,7 @@ Oncecloned, install all the dependencies.
 npm install
 ```
 
-Once installed, heaD over to `.env.example` file and replace `MONGO_DB_URI` with your Mongodb URI. and change the file name to `.env`
+Once installed, head over to `.env.example` file and replace `MONGO_DB_URI` with your Mongodb URI. and change the file name to `.env`
 
 Once you've done all that, head back to your terminal and start the server by entering
 
